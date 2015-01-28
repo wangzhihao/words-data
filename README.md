@@ -1,2 +1,2 @@
 # words-data
-the data backup for words(contexter) site
+the data backup for [words](https://github.com/wangzhihao/words) site
